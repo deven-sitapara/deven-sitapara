@@ -52,19 +52,6 @@
 
 ### 💼 Skills
 
-- **Backend:** PHP, Python, Node.js, C#
-- **Frameworks:** Laravel, Zend, WordPress, NestJS, NextJS
-- **Frontend:** HTML5, CSS3, JavaScript, React, TypeScript
-- **Databases:** MySQL, PostgreSQL, MSSQL, MongoDB
-- **APIs:** REST, GraphQL, Swagger
-- **DevOps:** Git, Linux, CI/CD, Docker, AWS
-- **Linux:** VPS, Shell Scripting, Perl
-- **Testing:** Unit Testing, JMeter
-- **Design:** HDL, LLD
-- **Project Management:** Agile, Scrum
-
-### 💼 Skills
-
 #### Backend:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
