@@ -1,26 +1,83 @@
-## Hi there 👋
+# Deven Sitapara
 
-Deven Sitapara here, I am a Full Stack Engineer with wide faculties experience.
+**17+ Years of Experience | Senior Engineer | Consultant**
 
-- 🔭 I’m currently working on PHP, NodeJs, Python 
-- 🔭 Past experience : Laravel, Wordpress, Python, Mern
-- 🌱 I’m currently learning Advance Python-Panda, NodeJS Multi Threding, Advance MongoDB, Kubernates 
-- 👯 I’m looking to collaborate on MERN, NextJS, NestJS, MongoDB, Typescript, Python, Django, Flask
-- 🤔 I’m looking for help with Hospitality, Telecome, Sales faculties
-- 💬 Ask me about Web Application Development, System Design
-- 📫 How to reach me: skype: dev.srs, Whats app: 9979907571 , email: shriramsoft@gmail.com
+🌍 Hyderabad, India  
+📞 Contact: +91-9979907571  
+📧 Email: devensitapara@gmail.com  
+[LinkedIn](#) | [Twitter](#) | [GitHub](#)
 
-<!--
-**devatsrs/devatsrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Sr Developer - Production**  
+*Feb 2023 - Present | Cendyn (Pegasus), Hyderabad*  
+- Developing and enhancing features for ecommerce hospitality products.  
+- **Tech Stack:** Node.js, PHP, MySQL, ZF, WordPress  
+- [Cendyn](https://www.cendyn.com)
+
+**Sr. Developer**  
+*Nov 2022 - Feb 2023 | Quantum Dynamics Limited, France*  
+- Built web app modules and APIs for FIDUCIAL Bank of France.  
+- **Tech Stack:** NestJS, MongoDB, GraphQL, React, AWS  
+- [Bansira](https://bansira.com)
+
+**Team Leader, Project Architect**  
+*Aug 2020 - Sep 2022 | GKB Labs Pvt Ltd, Hyderabad*  
+- Developed B2B products in healthcare and AV industries, increasing sales and performance significantly.  
+- **Tech Stack:** PHP, Laravel, Python, AWS  
+- [Pricedonkey](https://pricedonkey.net) | [MensHealthClinic](https://menshealthclinic.com)
+
+**Sr. Developer, Team Leader**  
+*Jan 2015 - Jan 2020 | Code-Desk Pvt Ltd, UK*  
+- Developed Telecom ERP with multiple integrated systems, enhancing customer base and process efficiency.  
+- **Tech Stack:** PHP, Laravel, Python, Node.js, MSSQL, AWS  
+- [Neon-Soft](http://neon-soft.com)
+
+**Sr. Full Stack Developer**  
+*Jul 2012 - Dec 2015 | Phoenix Biz Solutions, Cardiff*  
+- Developed custom eCommerce modules for a large furniture company.  
+- **Tech Stack:** LAMP Stack
+
+**Full Stack Freelancer**  
+*Jul 2006 - Dec 2012 | Self-Employed*  
+- Provided custom web and software development services.  
+- **Tech Stack:** PHP, MySQL, WordPress, .NET, JavaEE  
+- [BlueBananaClothing](https://www.bluebananaclothing.com) | [SimplySuave](https://simplysuave.co.nz)
+
+---
+
+### 💼 Skills
+
+- **Backend:** PHP, Python, Node.js, C#
+- **Frameworks:** Laravel, Zend, WordPress, NestJS, NextJS
+- **Frontend:** HTML5, CSS3, JavaScript, React, TypeScript
+- **Databases:** MySQL, PostgreSQL, MSSQL, MongoDB
+- **APIs:** REST, GraphQL, Swagger
+- **DevOps:** Git, Linux, CI/CD, Docker, AWS
+- **Linux:** VPS, Shell Scripting, Perl
+- **Testing:** Unit Testing, JMeter
+- **Design:** HDL, LLD
+- **Project Management:** Agile, Scrum
+
+---
+
+### 🎓 Certifications
+
+- **DevOps Certification Training** - Edureka
+- **Linux Server Administration** - Edureka
+- **MySQL DBA** - Edureka
+
+---
+
+### 🎓 Education
+
+**Bachelor of Engineering in Computer Engineering**  
+*Atmiya University | 2002 - 2006*
+
+---
+
+🌱 I’m currently focusing on refining my skills in advanced DevOps practices and cloud-native technologies. 
+
+🚀 Passionate about building scalable solutions and continuously improving processes to deliver optimal results.
