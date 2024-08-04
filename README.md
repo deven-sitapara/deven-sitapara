@@ -12,41 +12,68 @@
 
 ---
 
-### 👨‍💻 Experience
+# 👨‍💻 Experience
 
-**Sr Developer - Production**  
-*Feb 2023 - Present | Cendyn (Pegasus), Hyderabad*  
+## Sr Developer - Production  
+**Feb 2023 - Present | Cendyn (Pegasus), Hyderabad**  
 - Developing and enhancing features for ecommerce hospitality products.  
-- **Tech Stack:** Node.js, PHP, MySQL, ZF, WordPress  
+- **Tech Stack:**  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+  ![Zend Framework](https://img.shields.io/badge/Zend-68B604?style=for-the-badge&logo=zend-framework&logoColor=white) 
+  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-**Sr. Developer**  
-*Nov 2022 - Feb 2023 | Quantum Dynamics Limited, France*  
+## Sr. Developer  
+**Nov 2022 - Feb 2023 | Quantum Dynamics Limited, France**  
 - Built web app modules and APIs for FIDUCIAL Bank of France.  
-- **Tech Stack:** NestJS, MongoDB, GraphQL, React, AWS  
-- [Bansira](https://bansira.com)
+- **Tech Stack:**  
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+  - [Bansira](https://bansira.com)
 
-**Team Leader, Project Architect**  
-*Aug 2020 - Sep 2022 | GKB Labs Pvt Ltd, Hyderabad*  
+## Team Leader, Project Architect  
+**Aug 2020 - Sep 2022 | GKB Labs Pvt Ltd, Hyderabad**  
 - Developed B2B products in healthcare and AV industries, increasing sales and performance significantly.  
-- **Tech Stack:** PHP, Laravel, Python, AWS  
-- [Pricedonkey](https://pricedonkey.net) | [MensHealthClinic](https://menshealthclinic.com)
+- **Tech Stack:**  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+  - [Pricedonkey](https://pricedonkey.net) | [MensHealthClinic](https://menshealthclinic.com)
 
-**Sr. Developer, Team Leader**  
-*Jan 2015 - Jan 2020 | Code-Desk Pvt Ltd, UK*  
+## Sr. Developer, Team Leader  
+**Jan 2015 - Jan 2020 | Code-Desk Pvt Ltd, UK**  
 - Developed Telecom ERP with multiple integrated systems, enhancing customer base and process efficiency.  
-- **Tech Stack:** PHP, Laravel, Python, Node.js, MSSQL, AWS  
-- [Neon-Soft](http://neon-soft.com)
+- **Tech Stack:**  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+  ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+  - [Neon-Soft](http://neon-soft.com)
 
-**Sr. Full Stack Developer**  
-*Jul 2012 - Dec 2015 | Phoenix Biz Solutions, Cardiff*  
+## Sr. Full Stack Developer  
+**Jul 2012 - Dec 2015 | Phoenix Biz Solutions, Cardiff**  
 - Developed custom eCommerce modules for a large furniture company.  
-- **Tech Stack:** LAMP Stack
+- **Tech Stack:**  
+  ![LAMP Stack](https://img.shields.io/badge/LAMP-FFFFFF?style=for-the-badge&logo=linux&logoColor=black)
 
-**Full Stack Freelancer**  
-*Jul 2006 - Dec 2012 | Self-Employed*  
+## Full Stack Freelancer  
+**Jul 2006 - Dec 2012 | Self-Employed**  
 - Provided custom web and software development services.  
-- **Tech Stack:** PHP, MySQL, WordPress, .NET, JavaEE  
-- [BlueBananaClothing](https://www.bluebananaclothing.com) | [SimplySuave](https://simplysuave.co.nz)
+- **Tech Stack:**  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
+  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+  ![JavaEE](https://img.shields.io/badge/JavaEE-5382A1?style=for-the-badge&logo=java&logoColor=white)  
+  - [BlueBananaClothing](https://www.bluebananaclothing.com) | [SimplySuave](https://simplysuave.co.nz)
+
 
 ---
 
