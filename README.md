@@ -2,8 +2,9 @@
 
 Deven Sitapara here, I am a Full Stack Engineer with wide faculties experience.
 
-- 🔭 I’m currently working on HTML5, CSS3, PHP, Zend Framework, Mysql
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on PHP, NodeJs, Python 
+- 🔭 Past experience : Laravel, Wordpress, Python, Mern
+- 🌱 I’m currently learning Advance Python-Panda, NodeJS Multi Threding, Advance MongoDB, Kubernates 
 - 👯 I’m looking to collaborate on MERN, NextJS, NestJS, MongoDB, Typescript, Python, Django, Flask
 - 🤔 I’m looking for help with Hospitality, Telecome, Sales faculties
 - 💬 Ask me about Web Application Development, System Design
