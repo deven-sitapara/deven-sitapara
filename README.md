@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Deven Sitapara here, I am a Full Stack Engineer with wide faculties experience.
+
+- 🔭 I’m currently working on HTML5, CSS3, PHP, Zend Framework, Mysql
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on MERN, NextJS, NestJS, MongoDB, Typescript, Python, Django, Flask
+- 🤔 I’m looking for help with Hospitality, Telecome, Sales faculties
+- 💬 Ask me about Web Application Development, System Design
+- 📫 How to reach me: skype: dev.srs, Whats app: 9979907571 , email: shriramsoft@gmail.com
+
 <!--
 **devatsrs/devatsrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
