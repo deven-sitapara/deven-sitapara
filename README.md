@@ -5,7 +5,6 @@
 🌍 Hyderabad, India  
 📞 Contact: +91-9979907571  
 📧 Email: devensitapara@gmail.com  
-[LinkedIn](#) | [Twitter](#) | [GitHub](#)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deven-sitapara)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shriramsoft)
