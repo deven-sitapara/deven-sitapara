@@ -15,7 +15,6 @@
 *Feb 2023 - Present | Cendyn (Pegasus), Hyderabad*  
 - Developing and enhancing features for ecommerce hospitality products.  
 - **Tech Stack:** Node.js, PHP, MySQL, ZF, WordPress  
-- [Cendyn](https://www.cendyn.com)
 
 **Sr. Developer**  
 *Nov 2022 - Feb 2023 | Quantum Dynamics Limited, France*  
