@@ -87,7 +87,7 @@
 
 ## Full Stack Freelancer  
 **Jul 2006 - Dec 2012 | Self-Employed**  
-- Provided custom web and software development services.  
+- Provided custom web and software development services.
 - **Tech Stack:**  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
