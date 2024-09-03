@@ -33,7 +33,7 @@
 # 👨‍💻 Experience
 
 ## Sr Developer - Production  
-**Feb 2023 - Present | Cendyn (Pegasus), Hyderabad**  
+**Feb 2023 - Aug-2024 | Cendyn (Pegasus), Hyderabad**  
 - Developing and enhancing features for ecommerce hospitality products.  
 - **Tech Stack:**  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
