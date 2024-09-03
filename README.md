@@ -2,10 +2,6 @@
 
 **17+ Years of Experience | Senior Engineer | SaaS | Consultant**
 
-I built [Neon-Soft](https://neon-soft.com) from scratch, leading the development, training, and deployment phases of this telecom SaaS application, while managing and mentoring the entire team.
-Same for [Price Donkey](https://www.youtube.com/watch?v=LjG8qEBOSHU) and few more bellow.
-
-
 🌍 Hyderabad, India  
 📞 Contact: +91-9979907571  
 📧 Email: devensitapara@gmail.com  
@@ -15,6 +11,12 @@ Same for [Price Donkey](https://www.youtube.com/watch?v=LjG8qEBOSHU) and few mor
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devatsrs)
 
 ---
+#  <i class="fab fa-markdown"></i> Product Development Experience
+
+- I built [Neon-Soft](https://neon-soft.com) from scratch, leading the development, training, and deployment phases of this telecom SaaS application, while managing and mentoring the entire team.
+- I have built for [Price Donkey](https://www.youtube.com/watch?v=LjG8qEBOSHU) tiny saas for sales people to manage their vendors product prices list.
+
+--- 
 
 # 👨‍💻 Experience
 
