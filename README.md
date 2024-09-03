@@ -23,7 +23,8 @@
    - [Start docker saas with a click in windows](https://www.youtube.com/watch?v=gLXXCe4Nn7o)
    - [SRS Paypal Offline Module for Shopping Cart](https://www.youtube.com/watch?v=iT6DerNAsys)
    - [SRS Authorize.net with 3D secure module for Opencart](https://www.youtube.com/watch?v=ka_vFl5nhj8){:target="_blank"} (https://www.youtube.com/watch?v=qR1rmDCGy74)
-   - 
+   - - [SRS Authorize.net with 3D secure module for Opencart](https://www.youtube.com/watch?v=ka_vFl5nhj8) <a href="https://www.youtube.com/watch?v=qR1rmDCGy74" target="_blank">(Open in new tab)</a>
+
 
   
 --- 
