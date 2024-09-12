@@ -4,7 +4,7 @@
 
 I have worked extensively with product-based companies, helping to bring their ideas to life through robust and scalable solutions.
  
-🌍 Hyderabad, India  
+🌍 Rajkot, India  
 📞 Contact: +91-9979907571  
 📧 Email: devensitapara@gmail.com  
 
