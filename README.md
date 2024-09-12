@@ -1,13 +1,12 @@
 # Deven Sitapara
 
-** Senior Engineer | SaaS | Consultant**
-
+** Senior Engineer | SaaS | Consultant** <br/>
 I have worked extensively with product-based companies, helping to bring their ideas to life through robust and scalable solutions.
  
-🌍 Rajkot, India
-📞 Contact: [+91-9979907571](https://wa.link/bi5653)
-📞 Skype: [dev.srs](https://join.skype.com/invite/Ie2StEKkCdTA)
-📧 Email: devensitapara@gmail.com  
+🌍 Rajkot, India <br/>
+📞 Contact: [+91-9979907571](https://wa.link/bi5653) <br/>
+📞 Skype: [dev.srs](https://join.skype.com/invite/Ie2StEKkCdTA) <br/>
+📧 Email: devensitapara@gmail.com  <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deven-sitapara)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deven_sitapara)
