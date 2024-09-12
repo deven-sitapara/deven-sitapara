@@ -5,7 +5,9 @@
 I have worked extensively with product-based companies, helping to bring their ideas to life through robust and scalable solutions.
  
 🌍 Rajkot, India  
-📞 Contact: +91-9979907571  
+📞 Contact: [+91-9979907571](https://wa.link/bi5653)
+📞 Skype: [dev.srs](https://join.skype.com/invite/Ie2StEKkCdTA)
+
 📧 Email: devensitapara@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deven-sitapara)
