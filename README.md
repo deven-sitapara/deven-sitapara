@@ -18,7 +18,7 @@ I have worked extensively with product-based companies, helping to bring their i
 
 | Product Name  | Description |
 | ------------- | ------------- |
-| [Cendyn](https://cendyn.com](https://help.cendyn.com/hc/en-us/articles/4406839122587-Cendyn-CMS-a-new-look-SEO-improvements-and-more)  | Its Cendyn CMS is Powerful, effective content marketing for hospitality domain |
+| [Cendyn](https://help.cendyn.com/hc/en-us/articles/4406839122587-Cendyn-CMS-a-new-look-SEO-improvements-and-more)  | Its Cendyn CMS is Powerful, effective content marketing for hospitality domain |
 | [Neon-Soft](https://neon-soft.com)  | I built Neon-Soft from scratch, leading the development, training, and deployment phases of this telecom SaaS application, while managing and mentoring the entire team. [Insights - 1](https://www.youtube.com/watch?v=4M1O6I-cEUs), [Insights - 2](https://www.youtube.com/watch?v=9eTJPKjjLNg) |
 | [Price Donkey](https://www.youtube.com/watch?v=LjG8qEBOSHU)  |  I have built for Price Donkey tiny saas for sales people to manage their vendors product prices list.  |
 | [RepDonkey](https://repdonkey.com/)  | SaaS for Sales Agency  |
