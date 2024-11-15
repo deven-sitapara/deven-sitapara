@@ -25,8 +25,8 @@ I have worked extensively with product-based companies, helping to bring their i
 | [pdf2csv](https://github.com/deven-sitapara/pdf2csv)  | PDF to csv tool for Price Donkey  |
 
 - Tiny Tools
-   - [Cloudscape.design based NextJs SaaS Starter Kit]https://github.com/deven-sitapara/cloudscape-design-system-start-kit
-   - [Carbon Design System based Next.Js SaaS Starter Kit]https://github.com/deven-sitapara/Carbon-Design-System-With-Next.js-Start-Kit
+   - [Cloudscape.design based NextJs SaaS Starter Kit](https://github.com/deven-sitapara/cloudscape-design-system-start-kit)
+   - [Carbon Design System based Next.Js SaaS Starter Kit](https://github.com/deven-sitapara/Carbon-Design-System-With-Next.js-Start-Kit)
    - [Mern Messaging](https://github.com/deven-sitapara/mern-messaging/tree/main) 
    - [CSV To Zoho Invoice](https://www.youtube.com/watch?v=JhVE8edHX80) , [Code](https://www.youtube.com/watch?v=tbkBPncdrnw)
    - [Docusign integration](https://www.youtube.com/watch?v=8Jr5-ym0ePc)
