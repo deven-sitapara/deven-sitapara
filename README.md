@@ -22,6 +22,7 @@ I have worked extensively with product-based companies, helping to bring their i
 
 | Product Name  | Description |
 | ------------- | ------------- |
+| [legal-saas-app](https://github.com/deven-sitapara/legal-saas-app)  | SaaS ERP for Law firm |
 | [Cendyn](https://help.cendyn.com/hc/en-us/articles/4406839122587-Cendyn-CMS-a-new-look-SEO-improvements-and-more)  | Cendyn CMS is Powerful, effective content marketing for hospitality domain |
 | [Neon-Soft](https://neon-soft.com)  | I built Neon-Soft from scratch, leading the development, training, and deployment phases of this telecom SaaS application, while managing and mentoring the entire team. [Insights - 1](https://www.youtube.com/watch?v=4M1O6I-cEUs), [Insights - 2](https://www.youtube.com/watch?v=9eTJPKjjLNg) |
 | [Price Donkey](https://www.youtube.com/watch?v=LjG8qEBOSHU)  |  I have built for Price Donkey tiny saas for sales people to manage their vendors product prices list.  |
