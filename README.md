@@ -30,16 +30,17 @@ I have worked extensively with product-based companies, helping to bring their i
 
 - Tiny Tools
    - [Cloudscape.design based NextJs SaaS Starter Kit](https://github.com/deven-sitapara/cloudscape-design-system-start-kit) [Tech Stak: NextJS, JavaScript ]
-   - [Carbon Design System based Next.Js SaaS Starter Kit](https://github.com/deven-sitapara/Carbon-Design-System-With-Next.js-Start-Kit) 
+   - [Carbon Design System based Next.Js SaaS Starter Kit](https://github.com/deven-sitapara/Carbon-Design-System-With-Next.js-Start-Kit) [Tech Stak: NextJS, Typescript ]
    - [Mern Messaging](https://github.com/deven-sitapara/mern-messaging/tree/main) 
-   - [CSV To Zoho Invoice](https://www.youtube.com/watch?v=JhVE8edHX80) , [Code](https://www.youtube.com/watch?v=tbkBPncdrnw)
-   - [Docusign integration](https://www.youtube.com/watch?v=8Jr5-ym0ePc)
-   - [Wp Sample Interview Plugin - Interview Candidate List , Bulk CSV Import, Candidate Image](https://www.youtube.com/watch?v=6IfjdxTy8pY)
-   - [pdf2csv](https://github.com/deven-sitapara/pdf2csv)
+   [Tech Stak: React, NodeJs, socket.io, Express, mongodb ]
+   - [CSV To Zoho Invoice](https://www.youtube.com/watch?v=JhVE8edHX80) , [Code](https://www.youtube.com/watch?v=tbkBPncdrnw) [ Techs Stack: PHP, Zoho]
+   - [Docusign integration](https://www.youtube.com/watch?v=8Jr5-ym0ePc) [ Techs Stack: PHP, Zoho]
+   - [Wp Sample Interview Plugin - Interview Candidate List , Bulk CSV Import, Candidate Image](https://www.youtube.com/watch?v=6IfjdxTy8pY) [Tech Stack: PHP, Wordpress]
+   - [pdf2csv](https://github.com/deven-sitapara/pdf2csv) [Tech Stack: Python, AWS]
    - [Zoho Export Data - RPA](https://www.youtube.com/watch?v=OAhezxpFVz0)
-   - [Start docker saas with a click in windows](https://www.youtube.com/watch?v=gLXXCe4Nn7o)
-   - [SRS Paypal Offline Module for Shopping Cart](https://www.youtube.com/watch?v=iT6DerNAsys)
-   - [SRS Authorize.net with 3D secure module for Opencart](https://www.youtube.com/watch?v=ka_vFl5nhj8) [demo 2](https://www.youtube.com/watch?v=qR1rmDCGy74)
+   - [Start docker saas with a click in windows](https://www.youtube.com/watch?v=gLXXCe4Nn7o) [Tech Stack: RPA, TagUI]
+   - [SRS Paypal Offline Module for Shopping Cart](https://www.youtube.com/watch?v=iT6DerNAsys) [Tech Stack: PHP, Opencart]
+   - [SRS Authorize.net with 3D secure module for Opencart](https://www.youtube.com/watch?v=ka_vFl5nhj8) [demo 2](https://www.youtube.com/watch?v=qR1rmDCGy74) [Tech Stack: PHP, Opencart]
    
 
   
