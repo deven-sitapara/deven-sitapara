@@ -73,7 +73,7 @@ Here are some of my notable projects. These showcase my skills in developing sca
 |------|------|------------------|-------------------|------|
 | SaaS for Sport Clubs | SaaS | React, Node.js, MongoDB | Modern web-based solution for sports management | [GitHub](https://github.com/deven-sitapara/sport-club-saas-app) |
 | Legal SaaS App | SaaS | Laravel, MySQL | Complete ERP solution for Law firms | [GitHub](https://github.com/deven-sitapara/legal-saas-app) |
-| Cendyn CMS | CMS | PHP, Zend, MySQL | Hospitality content marketing system | [Info](https://help.cendyn.com/hc/en-us/articles/4406839122587) |
+| Cendyn CMS | CMS | PHP, Zend, MySQL | Hospitality content management system | [Info](https://help.cendyn.com/hc/en-us/articles/4406839122587) |
 | Neon-Soft | ERP | PHP, Laravel, MSSQL | Telecom ERP with integrated systems | [Website](https://neon-soft.com) |
 | Price Donkey | SaaS | Python, AWS | Vendor price management system | [Demo](https://www.youtube.com/watch?v=LjG8qEBOSHU) |
 | RepDonkey | SaaS | PHP, MySQL | Sales Agency management solution | [Website](https://repdonkey.com/) |
@@ -103,7 +103,7 @@ I believe in:
 - **Collaborative Development**: Working closely with stakeholders to ensure alignment with business goals
 
 
- --- 
+ ---
 
 # 👨‍💻 Experience
 
