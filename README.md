@@ -2,9 +2,18 @@
 
 ![Header](./deven-github-header-image.png)
 
-** Senior Engineer | SaaS | Consultant** <br/>
-I have worked extensively with product-based companies, helping to bring their ideas to life through robust and scalable solutions.
- 
+
+---
+
+# 👨‍💻 Who Am I?
+
+**Senior Engineer | SaaS | Consultant** 
+
+A seasoned Indian engineer and consultant with extensive experience in product development, from ideation to deployment. Specializing in building robust, scalable SaaS solutions that transform client visions into reality. Proven track record in leading development teams and delivering high-quality products across various industries.
+
+---
+# 📧 Contact
+
 🌍 Rajkot, India <br/>
 📞 Contact: [+91-9979907571](https://wa.link/bi5653) <br/>
 📞 Skype: [dev.srs](https://join.skype.com/invite/Ie2StEKkCdTA) <br/>
@@ -14,37 +23,87 @@ I have worked extensively with product-based companies, helping to bring their i
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deven_sitapara)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deven-sitapara)
 
+
 ---
-# 💻 Products
+# 🌟 Industries I helped
+
+With over 18 years of experience, I've successfully delivered solutions across diverse sectors, helping following industries to transform their operations through technology. 
+
+![B2B](https://placehold.co/200x80/000000/FFFFFF?text=B2B)
+![Sales](https://placehold.co/200x80/000000/FFFFFF?text=Sales)
+![Commerce](https://placehold.co/200x80/000000/FFFFFF?text=E-Commerce)
+![Chemical](https://placehold.co/200x80/000000/FFFFFF?text=Chemical)
+![Sales](https://placehold.co/200x80/000000/FFFFFF?text=Sales)
+![Telecom](https://placehold.co/200x80/000000/FFFFFF?text=Telecom)
+![Fintech](https://placehold.co/200x80/000000/FFFFFF?text=Fintech)
+![Hospitality](https://placehold.co/200x80/000000/FFFFFF?text=Hospitality)
+![Healthcare](https://placehold.co/200x80/000000/FFFFFF?text=Healthcare)
 
 
-| Product Name  | Description |
-| ------------- | ------------- |
-| [SaaS for Sport Clubs](https://github.com/deven-sitapara/sport-club-saas-app)  | A modern web-based solution for managing sports leagues, teams, players, and schedules efficiently |
-| [Legal SaaS App](https://github.com/deven-sitapara/legal-saas-app)  | SaaS ERP for Law firm |
-| [Cendyn](https://help.cendyn.com/hc/en-us/articles/4406839122587-Cendyn-CMS-a-new-look-SEO-improvements-and-more)  | Cendyn CMS is Powerful, effective content marketing for hospitality domain |
-| [Neon-Soft](https://neon-soft.com)  | I built Neon-Soft from scratch, leading the development, training, and deployment phases of this telecom SaaS application, while managing and mentoring the entire team. [Insights - 1](https://www.youtube.com/watch?v=4M1O6I-cEUs), [Insights - 2](https://www.youtube.com/watch?v=9eTJPKjjLNg) |
-| [Price Donkey](https://www.youtube.com/watch?v=LjG8qEBOSHU)  |  I have built for Price Donkey tiny saas for sales people to manage their vendors product prices list.  |
-| [RepDonkey](https://repdonkey.com/)  | SaaS for Sales Agency  |
-| [pdf2csv](https://github.com/deven-sitapara/pdf2csv)  | PDF to csv tool for Price Donkey  |
-
-- Tiny Tools
-   - [Cloudscape.design based NextJs SaaS Starter Kit](https://github.com/deven-sitapara/cloudscape-design-system-start-kit) [Tech Stak: NextJS, JavaScript ]
-   - [Carbon Design System based Next.Js SaaS Starter Kit](https://github.com/deven-sitapara/Carbon-Design-System-With-Next.js-Start-Kit) [Tech Stak: NextJS, Typescript ]
-   - [Mern Messaging](https://github.com/deven-sitapara/mern-messaging/tree/main) 
-   [Tech Stak: React, NodeJs, socket.io, Express, mongodb ]
-   - [CSV To Zoho Invoice](https://www.youtube.com/watch?v=JhVE8edHX80) , [Code](https://www.youtube.com/watch?v=tbkBPncdrnw) [ Techs Stack: PHP, Zoho]
-   - [Docusign integration](https://www.youtube.com/watch?v=8Jr5-ym0ePc) [ Techs Stack: PHP, Zoho]
-   - [Wp Sample Interview Plugin - Interview Candidate List , Bulk CSV Import, Candidate Image](https://www.youtube.com/watch?v=6IfjdxTy8pY) [Tech Stack: PHP, Wordpress]
-   - [pdf2csv](https://github.com/deven-sitapara/pdf2csv) [Tech Stack: Python, AWS]
-   - [Zoho Export Data - RPA](https://www.youtube.com/watch?v=OAhezxpFVz0)
-   - [Start docker saas with a click in windows](https://www.youtube.com/watch?v=gLXXCe4Nn7o) [Tech Stack: RPA, TagUI]
-   - [SRS Paypal Offline Module for Shopping Cart](https://www.youtube.com/watch?v=iT6DerNAsys) [Tech Stack: PHP, Opencart]
-   - [SRS Authorize.net with 3D secure module for Opencart](https://www.youtube.com/watch?v=ka_vFl5nhj8) [demo 2](https://www.youtube.com/watch?v=qR1rmDCGy74) [Tech Stack: PHP, Opencart]
-   
-
-  
 --- 
+# 🌟 Type of Applications Used 
+
+
+Throughout my career, I've developed a wide range of applications create, used or integrated, each tailored to specific business needs and industry requirements. Here are some of the key types of applications I've built:
+
+- CMS (Content Management Systems)
+- ERP (Enterprise Resource Planning)
+- SaaS (Software as a Service)
+- CRM (Customer Relationship Management)
+- E-commerce Solutions
+- Payment Gateways
+- API Integrations
+- Blog Platforms
+- Social Media Integration Platforms
+- Mobile Applications
+- Data Analytics Tools
+- Document Management Systems
+- Workflow Automation Tools
+- Inventory Management Systems
+- Reporting Dashboards
+
+
+---
+# 🌟  Products & Tools
+
+Here are some of my notable projects. These showcase my skills in developing scalable, user-friendly applications across different domains and technologies.
+
+## Enterprise Products
+| Name | Type | Used Applications | Short Description | URLs |
+|------|------|------------------|-------------------|------|
+| SaaS for Sport Clubs | SaaS | React, Node.js, MongoDB | Modern web-based solution for sports management | [GitHub](https://github.com/deven-sitapara/sport-club-saas-app) |
+| Legal SaaS App | SaaS | Laravel, MySQL | Complete ERP solution for Law firms | [GitHub](https://github.com/deven-sitapara/legal-saas-app) |
+| Cendyn CMS | CMS | PHP, Zend, MySQL | Hospitality content marketing system | [Info](https://help.cendyn.com/hc/en-us/articles/4406839122587) |
+| Neon-Soft | ERP | PHP, Laravel, MSSQL | Telecom ERP with integrated systems | [Website](https://neon-soft.com) |
+| Price Donkey | SaaS | Python, AWS | Vendor price management system | [Demo](https://www.youtube.com/watch?v=LjG8qEBOSHU) |
+| RepDonkey | SaaS | PHP, MySQL | Sales Agency management solution | [Website](https://repdonkey.com/) |
+
+## Development Tools & Integrations
+| Title | Use | Link |
+|-------|-----|------|
+| Cloudscape Design Kit | AWS Cloudscape Design System based SaaS starter | [GitHub](https://github.com/deven-sitapara/cloudscape-design-system-start-kit) |
+| Carbon Design Kit | IBM Carbon Design System based SaaS starter | [GitHub](https://github.com/deven-sitapara/Carbon-Design-System-With-Next.js-Start-Kit) |
+| MERN Messaging | Real-time messaging application template | [GitHub](https://github.com/deven-sitapara/mern-messaging/tree/main) |
+| CSV To Zoho Invoice | Zoho Invoice integration tool | [Demo](https://www.youtube.com/watch?v=JhVE8edHX80) |
+| Docusign Integration | Zoho-Docusign integration tool | [Demo](https://www.youtube.com/watch?v=8Jr5-ym0ePc) |
+| WP Interview Plugin | WordPress candidate management plugin | [Demo](https://www.youtube.com/watch?v=6IfjdxTy8pY) |
+| pdf2csv | PDF to CSV conversion tool | [GitHub](https://github.com/deven-sitapara/pdf2csv) |
+| Docker Saas Starter | One-click Docker SaaS setup for Windows | [Demo](https://www.youtube.com/watch?v=gLXXCe4Nn7o) |
+| PayPal Module | Opencart PayPal integration module | [Demo](https://www.youtube.com/watch?v=iT6DerNAsys) |
+| Authorize.net Module | Opencart Authorize.net 3D secure module | [Demo](https://www.youtube.com/watch?v=ka_vFl5nhj8) |
+
+---
+
+## 👨‍💻 My Approach
+
+I believe in:
+- **Clean Architecture**: Building systems that are easy to understand and maintain
+- **User-Centered Design**: Creating experiences that solve real problems for users
+- **Continuous Learning**: Staying current with emerging technologies and best practices
+- **Collaborative Development**: Working closely with stakeholders to ensure alignment with business goals
+
+
+ --- 
 
 # 👨‍💻 Experience
 
@@ -113,6 +172,10 @@ I have worked extensively with product-based companies, helping to bring their i
   - [BlueBananaClothing](https://www.bluebananaclothing.com) | [SimplySuave](https://simplysuave.co.nz)
 
 
+---
+
+
+  
 ---
 
 ### 💼 Skills
@@ -190,6 +253,15 @@ I have worked extensively with product-based companies, helping to bring their i
 
 ---
 
-🌱 I’m currently focusing on refining my skills in advanced DevOps practices and cloud-native technologies. 
+---
+
+🌱 I'm currently focusing on refining my skills in advanced DevOps practices and cloud-native technologies. 
 
 🚀 Passionate about building scalable solutions and continuously improving processes to deliver optimal results.
+
+---
+
+Thank you for taking the time to visit my GitHub profile. 
+Feel free to explore my projects, and don't hesitate to reach out if you have any questions or opportunities for collaboration. 
+Together, we can make a positive impact in the world of software development!
+
