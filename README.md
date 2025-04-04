@@ -63,12 +63,13 @@ Throughout my career, I've developed a wide range of applications create, used o
 - Reporting Dashboards
 
 
+
 ---
 # 🌟  Products & Tools
 
 Here are some of my notable projects. These showcase my skills in developing scalable, user-friendly applications across different domains and technologies.
 
-## Enterprise Products
+## 📔 Enterprise Products
 | Name | Type | Used Applications | Short Description | URLs |
 |------|------|------------------|-------------------|------|
 | SaaS for Sport Clubs | SaaS | React, Node.js, MongoDB | Modern web-based solution for sports management | [GitHub](https://github.com/deven-sitapara/sport-club-saas-app) |
@@ -78,7 +79,7 @@ Here are some of my notable projects. These showcase my skills in developing sca
 | Price Donkey | SaaS | Python, AWS | Vendor price management system | [Demo](https://www.youtube.com/watch?v=LjG8qEBOSHU) |
 | RepDonkey | SaaS | PHP, MySQL | Sales Agency management solution | [Website](https://repdonkey.com/) |
 
-## Development Tools & Integrations
+## 🔧 Tools, Plugins and Integrations
 | Title | Use | Link |
 |-------|-----|------|
 | Cloudscape Design Kit | AWS Cloudscape Design System based SaaS starter | [GitHub](https://github.com/deven-sitapara/cloudscape-design-system-start-kit) |
