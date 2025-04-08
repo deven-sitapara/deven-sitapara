@@ -16,8 +16,8 @@ A seasoned Indian engineer and consultant with extensive experience in product d
 
 🌍 Rajkot, India <br/>
 📞 Contact: [+91-9979907571](https://wa.link/bi5653) <br/>
-📞 Skype: [dev.srs](https://join.skype.com/invite/Ie2StEKkCdTA) <br/>
-📧 Email: devensitapara@gmail.com  <br/>
+📞 Team: [DevenS]([https://teams.live.com/l/invite/FEAa081F-Gqrgeh8AE)) <br/>
+📧 Email: hello@devens.me  <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deven-sitapara)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deven_sitapara)
